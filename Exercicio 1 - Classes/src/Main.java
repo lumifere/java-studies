@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Insira a seguir os seguintes dados sobre o seu carro.\nSeu nome:");
         String dono = sc.nextLine();
